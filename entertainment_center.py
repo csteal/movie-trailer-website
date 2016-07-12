@@ -1,6 +1,8 @@
 import media
 import fresh_tomatoes
 
+# Credit: movie storylines were taken from http://www.imdb.com
+
 # Movie instance 1
 sandlot = media.Movie("The Sandlot",
 	             	  "A new kid in town is taken under the wing of a young baseball prodigy and his team in this coming of age movie set in the summer of 1962.",
